@@ -134,7 +134,7 @@ The Airline Reservation System aims to automate the flight booking process, redu
 
 ## 👨‍💻 Developed By
 
-- Anand A. Halwe (PRN: 220950320050)  
+- Anand A. Halwe  
 ---
 
 ## 🙏 Thank You!
